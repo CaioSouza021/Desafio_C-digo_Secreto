@@ -80,7 +80,7 @@ organizar_lista()
 def acessar_registros():
     alunos = ("Ana", "Bruno", "Carla", "Daniel", "Eduardo")
     print("Primeiro aluno:", alunos[0])
-    print("Último aluno:", alunos[-1])
+    print("Último aluno:", alunos[4])
 
 
 acessar_registros()
